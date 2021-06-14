@@ -5,4 +5,4 @@ age = int(input("age :"))
 jours = age * 365
 minutes = age * 525948
 secondes: age * 31556926
-print(nom, "a vécu", jours,"jours", minutes, "minutes et", secondes, "secondes ! Wow !")
+print(nom, "a vécu", jours,"date du jours", minutes, "minutes et", secondes, "secondes ! Wow !")
